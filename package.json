@@ -1,0 +1,11 @@
+{
+  "name": "redispubsub",
+  "version": "1.0.0",
+  "description": "playground to learn how node js redis pub sub works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
